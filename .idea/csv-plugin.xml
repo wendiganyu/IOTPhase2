@@ -3,7 +3,7 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="$PROJECT_DIR$/dataset(new).csv">
+        <entry key="$PROJECT_DIR$/dataset_new.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
