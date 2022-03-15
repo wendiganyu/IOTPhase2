@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/ActivityStatistics.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/dataset_new.csv">
           <value>
             <Attribute>
