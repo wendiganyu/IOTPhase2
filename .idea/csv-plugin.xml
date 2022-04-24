@@ -3,20 +3,6 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="/ActivityStatistics.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/ActivityStatistics_ForTrain.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="/Datasets/dataset.csv">
           <value>
             <Attribute>
@@ -24,35 +10,7 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/ActivityStatistics.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/ActivityStatistics_ForTrain.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/dataset_new.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="$PROJECT_DIR$/resample_by_day_concat_KMeans_result.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/dataset_new.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
